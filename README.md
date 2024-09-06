@@ -17,3 +17,13 @@ Gestire ulteriori parametri per la password: quali caratteri usare fra numeri, l
 Dare all’utente anche la possibilità di permettere o meno la ripetizione di caratteri uguali.
 Ricordatevi di fare sempre il file README.md
 NUMERO DI PUSH MINIMO: 7
+
+1. creo stuttura index con un form per l'utente
+
+2. tramite get ottengo un numero da 6 a 25 dall utente
+
+3. una volta ottenuto il numero , creo una function che mi genera un tot di numeri,caratterli e lettere
+
+4. una volta creata dico alla function che questo array deve rispettare la lunghezza inserita dall'utente
+
+5. stampo il result
